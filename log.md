@@ -6,4 +6,6 @@ Started on May 1, 2022
 ## Log
 
 ### R1D1 
-//
+- Revised my Py notes
+- Learned Basics of a new IDE From Jetbrains - Pycharm  
+- Had Fun 🙂
