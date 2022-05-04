@@ -16,8 +16,8 @@ Started on May 1, 2022
   </details>
 
 ### R1D2 
-- Signed up for [Python Core Track](https://hyperskill.org/tracks/2) of JetBrains Academy.
-- Completed 13 topics of [Tic-Tac-Toe with AI](https://hyperskill.org/projects/82?track=2) Project.
+- Signed up for [Python Core Track](https://hyperskill.org/tracks/2) of JetBrains Academy
+- Completed 13 topics of [Tic-Tac-Toe with AI](https://hyperskill.org/projects/82?track=2) Project
 - Practised Python Basics with useful help of:<br>
 <br>https://pythonbasics.org/exercises/
 <br>https://holypython.com/beginner-python-exercises/
@@ -35,4 +35,14 @@ Started on May 1, 2022
   <details>
     <summary>Day 3 - Screenshot</summary>
     <img width="309" alt="Day 1 " src="https://user-images.githubusercontent.com/63997681/166515429-491c5406-6f47-4173-a07b-95ebc39dfe55.png">
+  </details>
+  
+### R1D4
+- Finished my First [Zookeper Project](https://github.com/h00ley/100-Days-Of-Code/tree/main/Zookeeper) at JetBrains Academy<br>
+- Confused understanding -11 % 5 = 4 | -11 % -5 = -1 the remainder of a division<br>
+- Completed +7 topics of [Python's Core Track](https://hyperskill.org/tracks/2)
+
+  <details>
+    <summary>Day 4 - Screenshot</summary>
+    <img width="309" alt="Day 1 " src="https://user-images.githubusercontent.com/63997681/166770016-b7b5f644-28b3-46d2-aa84-23cd7ab41a8d.png">
   </details>
