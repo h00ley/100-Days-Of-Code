@@ -3,7 +3,8 @@
 
 # I've joined the #100DaysOfCode Challenge
 
-* [Log - click here to see my progress](log.md)
+* ## [Log - click here to see my progress](log.md)
+* [Zookeeper Project](https://github.com/h00ley/100DaysOfCode/tree/main/Zookeeper)
 
 ## If you've decided to join:
 
