@@ -1,9 +1,9 @@
-# #100DaysOfCode Log - Round 1 - Rhett Hooley
-The log of my #100DaysOfCode challenge.
+# #100DaysOfCode - Round 1 - Rhett Hooley
+Simple notebook of my coding journey.
 
 Started on May 1, 2022
 
-## Log
+## LOG
 
 ### R1D1 
 - Revised my [Python Notes](https://github.com/h00ley/Python-Data-Analysis-Course/tree/master/A1)
