@@ -46,3 +46,14 @@ Started on May 1, 2022
     <summary>Day 4 - Screenshot</summary>
     <img width="309" alt="Day 1 " src="https://user-images.githubusercontent.com/63997681/166770016-b7b5f644-28b3-46d2-aa84-23cd7ab41a8d.png">
   </details>
+  
+ ### R1D5
+- Worked on a new Simple Tic-Tac-Toe Project at JetBrains Academy<br>
+- Reviewed yesterday's Python lessons
+- Learned about pip, venv, CLI, debugging...
+
+  <details>
+    <summary>Day 5 - Screenshot</summary>
+    <img width="309" alt="Day 1 " src="https://user-images.githubusercontent.com/63997681/166982462-21fbb29f-a899-4179-852e-4132587ea223.png">
+  </details>
+
