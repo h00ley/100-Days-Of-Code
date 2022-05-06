@@ -34,7 +34,7 @@ Started on May 1, 2022
 
   <details>
     <summary>Day 3 - Screenshot</summary>
-    <img width="309" alt="Day 1 " src="https://user-images.githubusercontent.com/63997681/166515429-491c5406-6f47-4173-a07b-95ebc39dfe55.png">
+    <img width="309" alt="Day 3 " src="https://user-images.githubusercontent.com/63997681/166515429-491c5406-6f47-4173-a07b-95ebc39dfe55.png">
   </details>
   
 ### R1D4
@@ -44,7 +44,7 @@ Started on May 1, 2022
 
   <details>
     <summary>Day 4 - Screenshot</summary>
-    <img width="309" alt="Day 1 " src="https://user-images.githubusercontent.com/63997681/166770016-b7b5f644-28b3-46d2-aa84-23cd7ab41a8d.png">
+    <img width="309" alt="Day 4 " src="https://user-images.githubusercontent.com/63997681/166770016-b7b5f644-28b3-46d2-aa84-23cd7ab41a8d.png">
   </details>
   
  ### R1D5
@@ -54,6 +54,15 @@ Started on May 1, 2022
 
   <details>
     <summary>Day 5 - Screenshot</summary>
-    <img width="309" alt="Day 1 " src="https://user-images.githubusercontent.com/63997681/166982462-21fbb29f-a899-4179-852e-4132587ea223.png">
+    <img width="309" alt="Day 5 " src="https://user-images.githubusercontent.com/63997681/166982462-21fbb29f-a899-4179-852e-4132587ea223.png">
   </details>
+  
+ ### R1D6
+- Worked all day long on the Simple Tic-Tac-Toe Project... at JetBrains Academy 
+- Learned Python's try: except | " ".join() 
+- Looked for day off
 
+  <details>
+    <summary>Day 6 - Screenshot</summary>
+    <img width="309" alt="Day 6" src="https://user-images.githubusercontent.com/63997681/167193624-2244cb17-d171-45c9-a19e-4cd53a712879.png">
+  </details>
