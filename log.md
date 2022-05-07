@@ -66,3 +66,13 @@ Started on May 1, 2022
     <summary>Day 6 - Screenshot</summary>
     <img width="309" alt="Day 6" src="https://user-images.githubusercontent.com/63997681/167193624-2244cb17-d171-45c9-a19e-4cd53a712879.png">
   </details>
+   
+ ### R1D7
+- Finished the Simple Tic-Tac-Toe Project... at JetBrains Academy
+- Learned Python's random module
+- Looked for documentation a lot
+
+  <details>
+    <summary>Day 7 - Screenshot</summary>
+    <img width="309" alt="Day 7" src="https://user-images.githubusercontent.com/63997681/167257718-31e6c39a-8471-46e6-869f-5a19537e7367.png">
+  </details>
