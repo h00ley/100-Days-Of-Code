@@ -3,8 +3,11 @@
 
 # I've joined the #100DaysOfCode Challenge
 
-* ## [Log - click here to see my progress](log.md)
-* [Zookeeper Project](https://github.com/h00ley/100DaysOfCode/tree/main/Zookeeper)
+* ## [Log - click here to see progress](log.md)
+* ### Completed Projects:
+  * [Zookeeper](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Zookeper)
+  * [Simple Tic-Tac-Toe](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Simple%20Tic-Tac-Toe)
+
 
 ## If you've decided to join:
 
