@@ -76,3 +76,15 @@ Started on May 1, 2022
     <summary>Day 7 - Screenshot</summary>
     <img width="309" alt="Day 7" src="https://user-images.githubusercontent.com/63997681/167257718-31e6c39a-8471-46e6-869f-5a19537e7367.png">
   </details>
+
+
+### R1D8
+- Played with simple tasks by BennettGarner
+- Learned Python's dictionaries
+- Reviewed yesterday's notes
+
+  <details>
+    <summary>Day 8 - Screenshot</summary>
+    <img width="309" alt="Day 7" src="https://user-images.githubusercontent.com/63997681/167308547-3f2485b1-4b28-4a73-8e04-ce08762b4029.png">
+  </details>
+
