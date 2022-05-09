@@ -85,6 +85,15 @@ Started on May 1, 2022
 
   <details>
     <summary>Day 8 - Screenshot</summary>
-    <img width="309" alt="Day 7" src="https://user-images.githubusercontent.com/63997681/167308547-3f2485b1-4b28-4a73-8e04-ce08762b4029.png">
+    <img width="309" alt="Day 8" src="https://user-images.githubusercontent.com/63997681/167308547-3f2485b1-4b28-4a73-8e04-ce08762b4029.png">
   </details>
 
+### R1D9
+- Was introduced to Linux, Bash, Json
+- Learned Python's loads/dump | readlines/write
+- Took roots as drwxrwxrwx+ 
+
+  <details>
+    <summary>Day 9 - Screenshot</summary>
+    <img width="309" alt="Day 9" src="https://user-images.githubusercontent.com/63997681/167469252-2cd2ab95-da14-4619-a368-1f7c43c6bd37.png">
+  </details>
