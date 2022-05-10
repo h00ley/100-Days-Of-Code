@@ -97,3 +97,14 @@ Started on May 1, 2022
     <summary>Day 9 - Screenshot</summary>
     <img width="309" alt="Day 9" src="https://user-images.githubusercontent.com/63997681/167469252-2cd2ab95-da14-4619-a368-1f7c43c6bd37.png">
   </details>
+  
+ ### R1D10
+- Worked on Easy Rider Bus Company Project at JetBrainsAcademy 
+- Learned the importance of a Good Task Description
+- Reviewed Python's dictionary | empty value check
+
+  <details>
+    <summary>Day 10 - Screenshot</summary>
+    <img width="309" alt="Day 9" src="https://user-images.githubusercontent.com/63997681/167686167-38d8c424-90d5-46be-9a25-a82a7a26052c.png">
+  </details>
+
