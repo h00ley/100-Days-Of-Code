@@ -105,6 +105,16 @@ Started on May 1, 2022
 
   <details>
     <summary>Day 10 - Screenshot</summary>
-    <img width="309" alt="Day 9" src="https://user-images.githubusercontent.com/63997681/167686167-38d8c424-90d5-46be-9a25-a82a7a26052c.png">
+    <img width="309" alt="Day 10" src="https://user-images.githubusercontent.com/63997681/167686167-38d8c424-90d5-46be-9a25-a82a7a26052c.png">
+  </details>
+  
+ ### R1D11
+- Completed +6 topics at JetBrainsAcademy 
+- Learned basics of Python's Classes / Objects
+- Reviewed Json lessons 
+
+  <details>
+    <summary>Day 11 - Screenshot</summary>
+    <img width="309" alt="Day 11" src="https://user-images.githubusercontent.com/63997681/167909233-300b1f97-ef28-44f9-8fda-eacce3a37379.png">
   </details>
 
