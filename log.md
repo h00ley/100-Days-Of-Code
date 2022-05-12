@@ -119,11 +119,11 @@ Started on May 1, 2022
   </details>
   
  ### R1D12
-- Completed +9 topics at #JetBrainsAcademy 
+- Completed +9 topics at JetBrainsAcademy 
 - Learned basics of Python's RegEx / Tuples
 - Looked for more hours in a day... 
 
   <details>
     <summary>Day 12 - Screenshot</summary>
-    <img width="309" alt="Day 11" src="https://user-images.githubusercontent.com/63997681/168135043-0fa0375b-0cfd-4248-9a2f-e6e0c7f1e1d9.png">
+    <img width="309" alt="Day 12" src="https://user-images.githubusercontent.com/63997681/168135043-0fa0375b-0cfd-4248-9a2f-e6e0c7f1e1d9.png">
   </details>
