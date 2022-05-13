@@ -47,7 +47,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 4 " src="https://user-images.githubusercontent.com/63997681/166770016-b7b5f644-28b3-46d2-aa84-23cd7ab41a8d.png">
   </details>
   
- ### R1D5
+### R1D5
 - Worked on a new Simple Tic-Tac-Toe Project at JetBrains Academy<br>
 - Reviewed yesterday's Python lessons
 - Learned about pip, venv, CLI, debugging...
@@ -57,7 +57,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 5 " src="https://user-images.githubusercontent.com/63997681/166982462-21fbb29f-a899-4179-852e-4132587ea223.png">
   </details>
   
- ### R1D6
+### R1D6
 - Worked all day long on the Simple Tic-Tac-Toe Project... at JetBrains Academy 
 - Learned Python's try: except | " ".join() 
 - Looked for day off
@@ -67,7 +67,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 6" src="https://user-images.githubusercontent.com/63997681/167193624-2244cb17-d171-45c9-a19e-4cd53a712879.png">
   </details>
    
- ### R1D7
+### R1D7
 - Finished the Simple Tic-Tac-Toe Project... at JetBrains Academy
 - Learned Python's random module
 - Looked for documentation a lot
@@ -76,7 +76,6 @@ Started on May 1, 2022
     <summary>Day 7 - Screenshot</summary>
     <img width="309" alt="Day 7" src="https://user-images.githubusercontent.com/63997681/167257718-31e6c39a-8471-46e6-869f-5a19537e7367.png">
   </details>
-
 
 ### R1D8
 - Played with simple tasks by BennettGarner
@@ -98,7 +97,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 9" src="https://user-images.githubusercontent.com/63997681/167469252-2cd2ab95-da14-4619-a368-1f7c43c6bd37.png">
   </details>
   
- ### R1D10
+### R1D10
 - Worked on Easy Rider Bus Company Project at JetBrainsAcademy 
 - Learned the importance of a Good Task Description
 - Reviewed Python's dictionary | empty value check
@@ -108,7 +107,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 10" src="https://user-images.githubusercontent.com/63997681/167686167-38d8c424-90d5-46be-9a25-a82a7a26052c.png">
   </details>
   
- ### R1D11
+### R1D11
 - Completed +6 topics at JetBrainsAcademy 
 - Learned basics of Python's Classes / Objects
 - Reviewed Json lessons 
@@ -118,7 +117,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 11" src="https://user-images.githubusercontent.com/63997681/167909233-300b1f97-ef28-44f9-8fda-eacce3a37379.png">
   </details>
   
- ### R1D12
+### R1D12
 - Completed +9 topics at JetBrainsAcademy 
 - Learned basics of Python's RegEx / Tuples
 - Looked for more hours in a day... 
@@ -126,4 +125,14 @@ Started on May 1, 2022
   <details>
     <summary>Day 12 - Screenshot</summary>
     <img width="309" alt="Day 12" src="https://user-images.githubusercontent.com/63997681/168135043-0fa0375b-0cfd-4248-9a2f-e6e0c7f1e1d9.png">
+  </details>
+  
+### R1D13
+- Completed +8 topics at JetBrainsAcademy 
+- Learned more about Python's RegEx / NLTK
+- Looking for reviewing weekends...  
+
+  <details>
+    <summary>Day 13 - Screenshot</summary>
+    <img width="309" alt="Day 13" src="https://user-images.githubusercontent.com/63997681/168336577-9fb8fd46-f5c0-47e4-817e-2fd9a67fa982.png">
   </details>
