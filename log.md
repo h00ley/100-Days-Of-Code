@@ -136,3 +136,14 @@ Started on May 1, 2022
     <summary>Day 13 - Screenshot</summary>
     <img width="309" alt="Day 13" src="https://user-images.githubusercontent.com/63997681/168336577-9fb8fd46-f5c0-47e4-817e-2fd9a67fa982.png">
   </details>
+  
+### R1D14
+- Completed +6 topics at JetBrainsAcademy 
+- Learned more about Python's Sets / Itertools
+- Enjoyed the moment of code's simplicity 🙂 
+
+  <details>
+    <summary>Day 14 - Screenshot</summary>
+    <img width="309" alt="Day 14" src="https://user-images.githubusercontent.com/63997681/168443287-edcd7194-8086-45a2-b95b-018efe4077bc.png">
+  </details>
+
