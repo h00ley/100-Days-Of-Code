@@ -146,4 +146,13 @@ Started on May 1, 2022
     <summary>Day 14 - Screenshot</summary>
     <img width="309" alt="Day 14" src="https://user-images.githubusercontent.com/63997681/168443287-edcd7194-8086-45a2-b95b-018efe4077bc.png">
   </details>
+  
+ ### R1D15
+- Tried to work on the Easy Rider Bus Company project
+- Skimmed Python's yesterday's lessons
+- One of those procrastination days... 
 
+  <details>
+    <summary>Day 15 - Screenshot</summary>
+    <img width="309" alt="Day 14" src="https://user-images.githubusercontent.com/63997681/168484642-34d8f207-04e8-4dfa-9608-5ff8f36277d2.png">
+  </details>
