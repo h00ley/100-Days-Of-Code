@@ -154,5 +154,16 @@ Started on May 1, 2022
 
   <details>
     <summary>Day 15 - Screenshot</summary>
-    <img width="309" alt="Day 14" src="https://user-images.githubusercontent.com/63997681/168484642-34d8f207-04e8-4dfa-9608-5ff8f36277d2.png">
+    <img width="309" alt="Day 15" src="https://user-images.githubusercontent.com/63997681/168484642-34d8f207-04e8-4dfa-9608-5ff8f36277d2.png">
   </details>
+  
+ ### R1D16
+- Worked on the Easy Rider Bus Company project
+- Still confused by Python's Classes | Methods
+- Refreshed some past tasks... 
+
+  <details>
+    <summary>Day 16 - Screenshot</summary>
+    <img width="309" alt="Day 16" src="https://user-images.githubusercontent.com/63997681/168652332-aa7d67a8-247f-42fb-abab-39669aa12634.png">
+  </details>
+
