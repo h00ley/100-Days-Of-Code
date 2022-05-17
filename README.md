@@ -7,6 +7,7 @@
 * ### Completed Projects:
   * [Zookeeper](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Zookeper)
   * [Simple Tic-Tac-Toe](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Simple%20Tic-Tac-Toe)
+  * [Easy Rider Bus Company](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Easy%20Rider%20Bus%20Company)
 
 
 ## If you've decided to join:
