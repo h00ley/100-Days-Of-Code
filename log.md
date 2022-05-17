@@ -166,4 +166,13 @@ Started on May 1, 2022
     <summary>Day 16 - Screenshot</summary>
     <img width="309" alt="Day 16" src="https://user-images.githubusercontent.com/63997681/168652332-aa7d67a8-247f-42fb-abab-39669aa12634.png">
   </details>
+  
+ ### R1D17
+- Completed +9 topics at JetBrainsAcademy 
+- Learned basics of Python's Immutability  
+- ...so When The Saints Go Marching In... 
 
+  <details>
+    <summary>Day 17 - Screenshot</summary>
+    <img width="309" alt="Day 17" src="https://user-images.githubusercontent.com/63997681/168876555-1bd41c31-f1de-4417-a825-ab553a9ec20d.png">
+  </details>
