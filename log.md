@@ -147,7 +147,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 14" src="https://user-images.githubusercontent.com/63997681/168443287-edcd7194-8086-45a2-b95b-018efe4077bc.png">
   </details>
   
- ### R1D15
+### R1D15
 - Tried to work on the Easy Rider Bus Company project
 - Skimmed Python's yesterday's lessons
 - One of those procrastination days... 
@@ -157,7 +157,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 15" src="https://user-images.githubusercontent.com/63997681/168484642-34d8f207-04e8-4dfa-9608-5ff8f36277d2.png">
   </details>
   
- ### R1D16
+### R1D16
 - Worked on the Easy Rider Bus Company project
 - Still confused by Python's Classes | Methods
 - Refreshed some past tasks... 
@@ -167,7 +167,7 @@ Started on May 1, 2022
     <img width="309" alt="Day 16" src="https://user-images.githubusercontent.com/63997681/168652332-aa7d67a8-247f-42fb-abab-39669aa12634.png">
   </details>
   
- ### R1D17
+### R1D17
 - Completed +9 topics at JetBrainsAcademy 
 - Learned basics of Python's Immutability  
 - ...so When The Saints Go Marching In... 
@@ -175,4 +175,16 @@ Started on May 1, 2022
   <details>
     <summary>Day 17 - Screenshot</summary>
     <img width="309" alt="Day 17" src="https://user-images.githubusercontent.com/63997681/168876555-1bd41c31-f1de-4417-a825-ab553a9ec20d.png">
+  </details>
+  
+### R1D18
+- Completed +9 topics at JetBrainsAcademy 
+- Learned basics of Python's Recursion  
+- Discovered The First-Ever-Made Website 
+
+  <details>
+    <summary>Day 18 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 18.1" src="https://user-images.githubusercontent.com/63997681/169102306-5afeb668-98f0-4e0d-95d6-19dd47929df1.png"><br>
+    <img width="309" alt="Day 18" src="https://user-images.githubusercontent.com/63997681/169102294-dd8d3c50-7702-45ff-84b0-a67df74ec101.png">
   </details>
