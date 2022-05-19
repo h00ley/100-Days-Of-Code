@@ -7,7 +7,7 @@ Started on May 1, 2022
 
 ### R1D1 
 - Revised my [Python Notes](https://github.com/h00ley/Python-Data-Analysis-Course/tree/master/A1)
-- Learned Basics of a new IDE From [Jetbrains - Pycharm](https://www.jetbrains.com/pycharm/)  
+- Learned Basics of a new IDE From [Jetbrains - Pycharm](https://www.jetbrains.com/pycharm/)
 - Had Fun 🙂
 
   <details>
@@ -187,4 +187,16 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 18.1" src="https://user-images.githubusercontent.com/63997681/169102306-5afeb668-98f0-4e0d-95d6-19dd47929df1.png"><br>
     <img width="309" alt="Day 18" src="https://user-images.githubusercontent.com/63997681/169102294-dd8d3c50-7702-45ff-84b0-a67df74ec101.png">
+  </details>
+  
+### R1D19
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's pprint | os modules  
+- Worked on The Web Scraper Project
+
+  <details>
+    <summary>Day 19 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 19.1" src="https://user-images.githubusercontent.com/63997681/169351082-fef1e8c0-ee77-4326-9ddd-1651b3de9665.png"><br>
+    <img width="309" alt="Day 19" src="https://user-images.githubusercontent.com/63997681/169351095-b3a5535a-f0d4-4a8b-997d-cd6dee82377f.png">
   </details>
