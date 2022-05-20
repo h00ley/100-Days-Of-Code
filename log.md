@@ -200,3 +200,15 @@ Started on May 1, 2022
     <img width="309" alt="Day 19.1" src="https://user-images.githubusercontent.com/63997681/169351082-fef1e8c0-ee77-4326-9ddd-1651b3de9665.png"><br>
     <img width="309" alt="Day 19" src="https://user-images.githubusercontent.com/63997681/169351095-b3a5535a-f0d4-4a8b-997d-cd6dee82377f.png">
   </details>
+  
+### R1D20
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's Strings  
+- Finished The Web Scraper Project
+
+  <details>
+    <summary>Day 20 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 20.1" src="https://user-images.githubusercontent.com/63997681/169574712-343d3987-d492-4dc0-a93d-d9c4dd271b50.png"><br>
+    <img width="309" alt="Day 20" src="https://user-images.githubusercontent.com/63997681/169574757-dab3f44d-e6b4-40bb-8609-ce92f30e278f.png">
+  </details>
