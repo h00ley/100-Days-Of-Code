@@ -212,3 +212,16 @@ Started on May 1, 2022
     <img width="309" alt="Day 20.1" src="https://user-images.githubusercontent.com/63997681/169574712-343d3987-d492-4dc0-a93d-d9c4dd271b50.png"><br>
     <img width="309" alt="Day 20" src="https://user-images.githubusercontent.com/63997681/169574757-dab3f44d-e6b4-40bb-8609-ce92f30e278f.png">
   </details>
+  
+### R1D21
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's Exceptions  
+- Looked for day off
+
+  <details>
+    <summary>Day 21 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 21.1" src="https://user-images.githubusercontent.com/63997681/169662391-30de4240-a610-4551-8b68-604a70f95fcc.png"><br>
+    <img width="309" alt="Day 21" src="https://user-images.githubusercontent.com/63997681/169662394-8b6ed00a-2b8b-443b-82e2-10569d4f5d3a.png">
+  </details>
+
