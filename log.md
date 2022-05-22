@@ -224,4 +224,15 @@ Started on May 1, 2022
     <img width="309" alt="Day 21.1" src="https://user-images.githubusercontent.com/63997681/169662391-30de4240-a610-4551-8b68-604a70f95fcc.png"><br>
     <img width="309" alt="Day 21" src="https://user-images.githubusercontent.com/63997681/169662394-8b6ed00a-2b8b-443b-82e2-10569d4f5d3a.png">
   </details>
+  
+### R1D22
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's super() | assert 
+- Worked on graduate projects
 
+  <details>
+    <summary>Day 22 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 22.1" src="https://user-images.githubusercontent.com/63997681/169706534-c96b58a7-d7e1-41a1-aa64-347b13be8a8d.png"><br>
+    <img width="309" alt="Day 22" src="https://user-images.githubusercontent.com/63997681/169706536-862f4f25-932b-40cd-a2b0-ca8bbca9ac37.png">
+  </details>
