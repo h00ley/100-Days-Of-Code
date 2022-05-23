@@ -236,3 +236,17 @@ Started on May 1, 2022
     <img width="309" alt="Day 22.1" src="https://user-images.githubusercontent.com/63997681/169706534-c96b58a7-d7e1-41a1-aa64-347b13be8a8d.png"><br>
     <img width="309" alt="Day 22" src="https://user-images.githubusercontent.com/63997681/169706536-862f4f25-932b-40cd-a2b0-ca8bbca9ac37.png">
   </details>
+  
+### R1D23
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's Datetime module
+- Worked on graduate projects
+
+  <details>
+    <summary>Day 23 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 23.1" src="https://user-images.githubusercontent.com/63997681/169876855-00c356ac-127f-4f71-a8b4-0e5c61c11a06.png"><br>
+    <img width="309" alt="Day 23" src="https://user-images.githubusercontent.com/63997681/169876865-9e5cecc4-2d3c-42a7-821f-0fe4a9d2e3d0.png">
+  </details>
+
+
