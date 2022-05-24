@@ -248,5 +248,14 @@ Started on May 1, 2022
     <img width="309" alt="Day 23.1" src="https://user-images.githubusercontent.com/63997681/169876855-00c356ac-127f-4f71-a8b4-0e5c61c11a06.png"><br>
     <img width="309" alt="Day 23" src="https://user-images.githubusercontent.com/63997681/169876865-9e5cecc4-2d3c-42a7-821f-0fe4a9d2e3d0.png">
   </details>
+  
+### R1D24
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's cProfile module
+- Worked on graduate projects
 
-
+  <details>
+    <summary>Day 24 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 24" src="https://user-images.githubusercontent.com/63997681/170070450-1f13531a-eb59-4548-8f99-839b5732658c.png">
+  </details>
