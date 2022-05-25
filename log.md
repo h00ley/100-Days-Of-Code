@@ -259,3 +259,16 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 24" src="https://user-images.githubusercontent.com/63997681/170070450-1f13531a-eb59-4548-8f99-839b5732658c.png">
   </details>
+  
+### R1D25
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's XML
+- Worked on graduate projects
+
+  <details>
+    <summary>Day 25 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 25" src="https://user-images.githubusercontent.com/63997681/170264837-72c57ada-c076-4524-8635-0757ca9b0c94.png"><br>
+    <img width="309" alt="Day 25.1" src="https://user-images.githubusercontent.com/63997681/170265027-fc74963c-2ceb-469d-b3b6-283ffd8d64db.png">
+  </details>
+
