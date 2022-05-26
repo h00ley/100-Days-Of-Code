@@ -271,4 +271,15 @@ Started on May 1, 2022
     <img width="309" alt="Day 25" src="https://user-images.githubusercontent.com/63997681/170264837-72c57ada-c076-4524-8635-0757ca9b0c94.png"><br>
     <img width="309" alt="Day 25.1" src="https://user-images.githubusercontent.com/63997681/170265027-fc74963c-2ceb-469d-b3b6-283ffd8d64db.png">
   </details>
+  
+### R1D26
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's Queue | Deque 
+- Worked on graduate projects
 
+  <details>
+    <summary>Day 26 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 26" src="https://user-images.githubusercontent.com/63997681/170520515-b5a467e6-59fc-49b9-8571-09f8c546e64c.png"><br>
+    <img width="309" alt="Day 26.1" src="https://user-images.githubusercontent.com/63997681/170520507-c3132afb-cbba-4a8c-9db7-3b83f3e1b0dc.png">
+  </details>
