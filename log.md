@@ -283,3 +283,15 @@ Started on May 1, 2022
     <img width="309" alt="Day 26" src="https://user-images.githubusercontent.com/63997681/170520515-b5a467e6-59fc-49b9-8571-09f8c546e64c.png"><br>
     <img width="309" alt="Day 26.1" src="https://user-images.githubusercontent.com/63997681/170520507-c3132afb-cbba-4a8c-9db7-3b83f3e1b0dc.png">
   </details>
+ 
+### R1D27
+- Completed +9 topics at JetBrainsAcademy
+- Learned basics of Python's Collections 
+- Worked on graduate projects
+
+  <details>
+    <summary>Day 27 - Screenshots</summary>
+    <br>
+    <img width="309" alt="Day 27" src="https://user-images.githubusercontent.com/63997681/170709101-ef35196d-e28b-42b4-a9ff-89eb5f8ea721.png"><br>
+    <img width="309" alt="Day 27.1" src="https://user-images.githubusercontent.com/63997681/170709114-f2d53c05-41fc-404c-bba8-59715c13d81c.png">
+  </details>
