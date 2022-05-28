@@ -295,3 +295,14 @@ Started on May 1, 2022
     <img width="309" alt="Day 27" src="https://user-images.githubusercontent.com/63997681/170709101-ef35196d-e28b-42b4-a9ff-89eb5f8ea721.png"><br>
     <img width="309" alt="Day 27.1" src="https://user-images.githubusercontent.com/63997681/170709114-f2d53c05-41fc-404c-bba8-59715c13d81c.png">
   </details>
+ 
+### R1D28
+- Completed Python Core Track at JetBrainsAcademy 
+- Finished graduate projects
+- Looking for new beginning
+
+  <details>
+    <summary>Day 28 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 28" src="https://user-images.githubusercontent.com/63997681/170821102-1818d76d-6672-4331-b948-31956b340761.png">
+  </details>
