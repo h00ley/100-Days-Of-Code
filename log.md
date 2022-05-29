@@ -306,3 +306,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 28" src="https://user-images.githubusercontent.com/63997681/170821102-1818d76d-6672-4331-b948-31956b340761.png">
   </details>
+  
+### R1D29
+- Started Intro ML in Python at JetBrainsAcademy 
+- Looked through previous lectures
+- Searched for data cases in the space industry
+
+  <details>
+    <summary>Day 29 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 29" src="https://user-images.githubusercontent.com/63997681/170870204-6d1e39b2-dccb-443b-b302-793afbe4aa33.png">
+  </details>
