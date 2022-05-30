@@ -317,3 +317,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 29" src="https://user-images.githubusercontent.com/63997681/170870204-6d1e39b2-dccb-443b-b302-793afbe4aa33.png">
   </details>
+  
+### R1D30
+- Completed +6 topics at JetBrainsAcademy
+- Learned basics of Python's Pandas Library
+- Worked on graduate project
+
+  <details>
+    <summary>Day 30 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 30" src="https://user-images.githubusercontent.com/63997681/171032323-79abe9e0-6031-4ee1-84bd-f00fb3bcaaa4.png"><br>
+  </details>
