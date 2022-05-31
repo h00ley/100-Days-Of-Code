@@ -328,3 +328,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 30" src="https://user-images.githubusercontent.com/63997681/171032323-79abe9e0-6031-4ee1-84bd-f00fb3bcaaa4.png"><br>
   </details>
+  
+### R1D31
+- Completed +7 topics at JetBrainsAcademy
+- Learned basics of Python's Statistics
+- Worked on graduate project
+
+  <details>
+    <summary>Day 31 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 31" src="https://user-images.githubusercontent.com/63997681/171225283-d0f6b564-13ac-4fc1-a50a-d751f168aed6.png"><br>
+  </details>
