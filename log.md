@@ -339,3 +339,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 31" src="https://user-images.githubusercontent.com/63997681/171225283-d0f6b564-13ac-4fc1-a50a-d751f168aed6.png"><br>
   </details>
+  
+### R1D32
+- Completed +8 topics at JetBrainsAcademy
+- Learned the basics of Python's Matplotlib
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 32 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 32" src="https://user-images.githubusercontent.com/63997681/171449988-0ac6b5d1-d2ef-44d4-8ecf-739735d17b93.png"><br>
+  </details>
