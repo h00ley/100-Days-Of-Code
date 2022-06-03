@@ -9,6 +9,7 @@
   * [Simple Tic-Tac-Toe](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Simple%20Tic-Tac-Toe)
   * [Easy Rider Bus Company](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Easy%20Rider%20Bus%20Company)
   * [Web Scraper](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Web%20Scraper)
+  * [Data Analysis for Hospitals](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Data%20Analysis%20for%20Hospitals)
 
 
 ## If you've decided to join:
