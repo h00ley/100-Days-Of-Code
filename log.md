@@ -361,3 +361,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 33" src="https://user-images.githubusercontent.com/63997681/171694325-8f780f3f-8144-49a6-97a7-6f1a814f81e7.png"><br>
   </details>
+  
+### R1D34
+- Completed +9 topics at JetBrainsAcademy
+- Learned the basics of Python's scikit-learn
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 34 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 34" src="https://user-images.githubusercontent.com/63997681/171877462-67258269-5432-4971-97a4-b69016687eb4.png"><br>
+  </details>
