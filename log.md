@@ -372,3 +372,16 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 34" src="https://user-images.githubusercontent.com/63997681/171877462-67258269-5432-4971-97a4-b69016687eb4.png"><br>
   </details>
+  
+    
+### R1D35
+- Completed +9 topics at JetBrainsAcademy
+- Learned the basics of Python's Probability
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 35 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 35" src="https://user-images.githubusercontent.com/63997681/172011086-758168c7-d4cf-4166-8f07-dfa2f828e387.jpeg"><br>
+  </details>
+
