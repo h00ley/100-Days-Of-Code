@@ -384,4 +384,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 35" src="https://user-images.githubusercontent.com/63997681/172011086-758168c7-d4cf-4166-8f07-dfa2f828e387.jpeg"><br>
   </details>
+  
+### R1D36
+- Completed +9 topics at JetBrainsAcademy
+- Learned the basics of Vector Operations
+- Worked on the graduate project
 
+  <details>
+    <summary>Day 36 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 36" src="https://user-images.githubusercontent.com/63997681/172048561-5119f228-f284-4571-a807-bcea0f3d8587.png"><br>
+  </details>
