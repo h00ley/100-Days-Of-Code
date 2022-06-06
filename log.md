@@ -395,3 +395,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 36" src="https://user-images.githubusercontent.com/63997681/172048561-5119f228-f284-4571-a807-bcea0f3d8587.png"><br>
   </details>
+  
+### R1D37
+- Completed +9 topics at JetBrainsAcademy
+- Learned the basics of Matrix Operations
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 37 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 37" src="https://user-images.githubusercontent.com/63997681/172166842-53e5e412-82ab-42ae-85ac-c1efdc833067.png"><br>
+  </details>
