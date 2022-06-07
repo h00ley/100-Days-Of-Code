@@ -406,3 +406,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 37" src="https://user-images.githubusercontent.com/63997681/172166842-53e5e412-82ab-42ae-85ac-c1efdc833067.png"><br>
   </details>
+ 
+### R1D38
+- Completed +9 topics at JetBrainsAcademy
+- Learned the basics of Regression
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 38 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 38" src="https://user-images.githubusercontent.com/63997681/172358393-0b5a56fa-2a41-4465-a0b5-29037d733c74.png"><br>
+  </details>
