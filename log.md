@@ -417,3 +417,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 38" src="https://user-images.githubusercontent.com/63997681/172358393-0b5a56fa-2a41-4465-a0b5-29037d733c74.png"><br>
   </details>
+  
+### R1D39
+- Completed +8 topics at JetBrainsAcademy
+- Learned the basics of Derivatives
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 39 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 39" src="https://user-images.githubusercontent.com/63997681/172586759-25ae5dcf-1f70-4066-8aef-955ba1e4e947.png"><br>
+  </details>
