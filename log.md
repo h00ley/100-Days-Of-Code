@@ -428,3 +428,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 39" src="https://user-images.githubusercontent.com/63997681/172586759-25ae5dcf-1f70-4066-8aef-955ba1e4e947.png"><br>
   </details>
+  
+### R1D40
+- Completed +7 topics at JetBrainsAcademy
+- Learned the basics of Linear Operators
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 40 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 40" src="https://user-images.githubusercontent.com/63997681/172867777-585fc440-98f1-4b04-993b-90d780117f87.png"><br>
+  </details>
