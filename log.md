@@ -439,3 +439,15 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 40" src="https://user-images.githubusercontent.com/63997681/172867777-585fc440-98f1-4b04-993b-90d780117f87.png"><br>
   </details>
+  
+### R1D41
+- Completed +6 topics at JetBrainsAcademy
+- Learned the basics of Linear Equations
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 41 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 41" src="https://user-images.githubusercontent.com/63997681/173102134-a59de3d0-ceb0-4edf-a2c6-cb68efcb8048.png"><br>
+  </details>
+
