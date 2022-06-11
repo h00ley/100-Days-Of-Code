@@ -450,4 +450,15 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 41" src="https://user-images.githubusercontent.com/63997681/173102134-a59de3d0-ceb0-4edf-a2c6-cb68efcb8048.png"><br>
   </details>
+  
+### R1D42
+- Completed +5 topics at JetBrainsAcademy
+- Learned the basics of Matrix Decomposition
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 42 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 42" src="https://user-images.githubusercontent.com/63997681/173198904-9aefcc1d-7612-4d04-b13e-4ccd37382214.png"><br>
+  </details>
 
