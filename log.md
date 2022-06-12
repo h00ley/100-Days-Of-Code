@@ -461,4 +461,15 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 42" src="https://user-images.githubusercontent.com/63997681/173198904-9aefcc1d-7612-4d04-b13e-4ccd37382214.png"><br>
   </details>
+  
+### R1D43
+- Completed Introduction to Linear Algebra at JetBrainsAcademy
+- Finished some graduate projects
+- Reviewed previous lessons
+
+  <details>
+    <summary>Day 43 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 43" src="https://user-images.githubusercontent.com/63997681/173235105-026cdf1e-3cc3-488e-a450-13140156e9fb.png"><br>
+  </details>
 
