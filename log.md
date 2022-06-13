@@ -475,11 +475,11 @@ Started on May 1, 2022
   
 ### R1D44
 - Completed +3 topics at JetBrainsAcademy
-- Learned the basics of Classification
+- Learned the basics of Optimization Problems
 - Worked on the graduate project
 
   <details>
     <summary>Day 44 - Screenshot</summary>
     <br>
-    <img width="309" alt="Day 44" src="https://user-images.githubusercontent.com/63997681/173366514-d366fe0f-6ca6-4f2a-bdd5-d641c1c2ab33.png"><br>
+    <img width="309" alt="Day 44" src="https://user-images.githubusercontent.com/63997681/173367164-5197e130-a733-4c60-82c1-e40f2b032dbe.png"><br>
   </details>
