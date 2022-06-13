@@ -472,4 +472,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 43" src="https://user-images.githubusercontent.com/63997681/173235105-026cdf1e-3cc3-488e-a450-13140156e9fb.png"><br>
   </details>
+  
+### R1D44
+- Completed +3 topics at JetBrainsAcademy
+- Learned the basics of Classification
+- Worked on the graduate project
 
+  <details>
+    <summary>Day 44 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 44" src="https://user-images.githubusercontent.com/63997681/173366514-d366fe0f-6ca6-4f2a-bdd5-d641c1c2ab33.png"><br>
+  </details>
