@@ -483,3 +483,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 44" src="https://user-images.githubusercontent.com/63997681/173367164-5197e130-a733-4c60-82c1-e40f2b032dbe.png"><br>
   </details>
+    
+### R1D45
+- Completed +4 topics at JetBrainsAcademy
+- Learned the basics of Limits
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 45 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 45" src="https://user-images.githubusercontent.com/63997681/173568387-58dd7021-7e75-490e-b122-a1d852b3d6bb.png"><br>
+  </details>
