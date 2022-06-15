@@ -494,3 +494,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 45" src="https://user-images.githubusercontent.com/63997681/173568387-58dd7021-7e75-490e-b122-a1d852b3d6bb.png"><br>
   </details>
+  
+### R1D46
+- Completed +5 topics at JetBrainsAcademy
+- Learned the basics of Integrals
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 46 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 46" src="https://user-images.githubusercontent.com/63997681/173829159-eedcb250-18bc-49a1-bf50-385162c80866.png"><br>
+  </details>
