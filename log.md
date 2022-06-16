@@ -505,3 +505,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 46" src="https://user-images.githubusercontent.com/63997681/173829159-eedcb250-18bc-49a1-bf50-385162c80866.png"><br>
   </details>
+  
+### R1D47
+- Completed Math for ML: Essentials at JetBrainsAcademy
+- Finished some graduate projects
+- Reviewed previous lessons
+
+  <details>
+    <summary>Day 47 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 47" src="https://user-images.githubusercontent.com/63997681/174062727-7b8a04ce-eeb9-4f37-8dc6-7bc4fe21f878.png"><br>
+  </details>
