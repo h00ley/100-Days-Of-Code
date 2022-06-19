@@ -538,4 +538,15 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 49" src="https://user-images.githubusercontent.com/63997681/174437929-8c49ca4c-0bb5-4ed2-a2da-8a278a5f3d3f.png"><br>
   </details>
+  
+### R1D50
+- Completed +6 topics at JetBrainsAcademy
+- Learned the basics of SQL's Data Modifications
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 50 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 50" src="https://user-images.githubusercontent.com/63997681/174477229-bb1fe64f-fbaf-4e5d-817a-e965412e0b08.png"><br>
+  </details>
 
