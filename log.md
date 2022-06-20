@@ -549,4 +549,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 50" src="https://user-images.githubusercontent.com/63997681/174477229-bb1fe64f-fbaf-4e5d-817a-e965412e0b08.png"><br>
   </details>
+  
+### R1D51
+- Completed +6 topics at JetBrainsAcademy
+- Learned the basics of MySQL
+- Worked on the graduate project
 
+  <details>
+    <summary>Day 51 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 51" src="https://user-images.githubusercontent.com/63997681/174610064-22e17d3b-d511-4884-9c89-e78ba39672d3.png"><br>
+  </details>
