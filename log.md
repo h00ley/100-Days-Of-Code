@@ -560,3 +560,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 51" src="https://user-images.githubusercontent.com/63997681/174610064-22e17d3b-d511-4884-9c89-e78ba39672d3.png"><br>
   </details>
+  
+### R1D52
+- Completed SQL Fundamentals at JetBrainsAcademy
+- Finished some graduate projects
+- Reviewed previous lessons
+
+  <details>
+    <summary>Day 52 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 52" src="https://user-images.githubusercontent.com/63997681/174821213-3a641cae-76eb-4d93-b8df-afe1ea6d7ea2.png"><br>
+  </details>
