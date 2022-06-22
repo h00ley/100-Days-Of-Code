@@ -571,3 +571,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 52" src="https://user-images.githubusercontent.com/63997681/174821213-3a641cae-76eb-4d93-b8df-afe1ea6d7ea2.png"><br>
   </details>
+
+### R1D53
+- Completed +4 topics at JetBrainsAcademy
+- Continued learning the basics of Functions
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 53 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 53" src="https://user-images.githubusercontent.com/63997681/175021612-0da2e0e6-c27d-45da-8771-005da4e3d045.png"><br>
+  </details>
