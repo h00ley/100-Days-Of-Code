@@ -582,3 +582,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 53" src="https://user-images.githubusercontent.com/63997681/175021612-0da2e0e6-c27d-45da-8771-005da4e3d045.png"><br>
   </details>
+
+### R1D54
+- Completed +5 topics at JetBrainsAcademy
+- Continued learning the basics of Classification
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 54 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 54" src="https://user-images.githubusercontent.com/63997681/175277037-456979c4-2a26-4b75-869f-db16e5cd5ba3.png"><br>
+  </details>
