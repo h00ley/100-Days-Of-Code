@@ -593,3 +593,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 54" src="https://user-images.githubusercontent.com/63997681/175277037-456979c4-2a26-4b75-869f-db16e5cd5ba3.png"><br>
   </details>
+  
+### R1D55
+- Completed +4 topics at JetBrainsAcademy
+- Continued learning the basics of Clustering
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 55 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 55" src="https://user-images.githubusercontent.com/63997681/175540227-c9b69ee4-520d-459c-9ced-e0e8a94090de.png"><br>
+  </details>
