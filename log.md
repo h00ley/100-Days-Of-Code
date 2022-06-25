@@ -604,3 +604,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 55" src="https://user-images.githubusercontent.com/63997681/175540227-c9b69ee4-520d-459c-9ced-e0e8a94090de.png"><br>
   </details>
+  
+### R1D56
+- Completed +5 topics at JetBrainsAcademy
+- Continued learning the basics of Decision Trees
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 56 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 56" src="https://user-images.githubusercontent.com/63997681/175773534-aea576ca-c98e-41d6-9dab-75027a3f084f.png"><br>
+  </details>
