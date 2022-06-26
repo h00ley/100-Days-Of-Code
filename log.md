@@ -615,3 +615,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 56" src="https://user-images.githubusercontent.com/63997681/175773534-aea576ca-c98e-41d6-9dab-75027a3f084f.png"><br>
   </details>
+  
+### R1D57
+- Completed +4 topics at JetBrainsAcademy
+- Continued learning the basics of NumPy
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 57 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 57" src="https://user-images.githubusercontent.com/63997681/175811548-f1fdd169-029a-431d-8ef1-25a7483ac50c.png"><br>
+  </details>
