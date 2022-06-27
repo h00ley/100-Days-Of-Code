@@ -626,3 +626,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 57" src="https://user-images.githubusercontent.com/63997681/175811548-f1fdd169-029a-431d-8ef1-25a7483ac50c.png"><br>
   </details>
+  
+### R1D58
+- Completed +3 topics at JetBrainsAcademy
+- Continued learning the basics of Pandas
+- Worked on the graduate project
+
+  <details>
+    <summary>Day 58 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 58" src="https://user-images.githubusercontent.com/63997681/175942870-42ed0d8f-15dd-4815-bb38-bb7b1109bac4.png"><br>
+  </details>
