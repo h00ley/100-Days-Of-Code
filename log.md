@@ -648,3 +648,14 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 59" src="https://user-images.githubusercontent.com/63997681/176175606-8ed88c15-ef97-4271-a5ce-29d6c992763c.png"><br>
   </details>
+  
+### R1D60
+- Finished Intro to ML in Python at JetBrainsAcademy
+- Completed all graduate projects
+- Reviewed previous lessons
+
+  <details>
+    <summary>Day 60 - Screenshot</summary>
+    <br>
+    <img width="309" alt="Day 60" src="https://user-images.githubusercontent.com/63997681/176433865-7ff1fbdf-895c-4dc9-a215-eda3a784f77f.png"><br>
+  </details>
