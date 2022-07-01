@@ -659,3 +659,9 @@ Started on May 1, 2022
     <br>
     <img width="309" alt="Day 60" src="https://user-images.githubusercontent.com/63997681/176433865-7ff1fbdf-895c-4dc9-a215-eda3a784f77f.png"><br>
   </details>
+
+### R1D61
+- Started 30DayChartChallenge
+- Theme day: Part-to-Whole
+- Learned the Treemap chart
+- Worked with the squarify library
