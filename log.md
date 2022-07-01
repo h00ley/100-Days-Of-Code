@@ -665,3 +665,8 @@ Started on May 1, 2022
 - Theme day: Part-to-Whole
 - Learned the Treemap chart
 - Worked with the squarify library
+
+### R1D62
+- Theme day: Pictogram
+- Learned the Waffle chart
+- Worked with the PyWaffle library
