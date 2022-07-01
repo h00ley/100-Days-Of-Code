@@ -661,7 +661,7 @@ Started on May 1, 2022
   </details>
 
 ### R1D61
-- Started 30DayChartChallenge
+- Started [30DayChartChallenge](https://github.com/h00ley/30DayChartChallenge)
 - Theme day: Part-to-Whole
 - Learned the Treemap chart
 - Worked with the squarify library
