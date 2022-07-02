@@ -670,3 +670,8 @@ Started on May 1, 2022
 - Theme day: Pictogram
 - Learned the Waffle chart
 - Worked with the PyWaffle library
+
+### R1D63
+- Theme day: Historical
+- Learned the dataviz's Timeline chart
+- Worked with the matplotlib library
