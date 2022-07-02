@@ -10,8 +10,9 @@
   * [Easy Rider Bus Company](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Easy%20Rider%20Bus%20Company)
   * [Web Scraper](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Web%20Scraper)
   * [Data Analysis for Hospitals](https://github.com/h00ley/100-Days-Of-Code/tree/main/Projects/Data%20Analysis%20for%20Hospitals)
+  * [30DayChartChallenge](https://github.com/h00ley/30DayChartChallenge)
 
-
+  
 ## If you've decided to join:
 
 1.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
