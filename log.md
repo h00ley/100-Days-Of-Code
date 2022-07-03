@@ -675,3 +675,8 @@ Started on May 1, 2022
 - Theme day: Historical
 - Learned the dataviz's Timeline chart
 - Worked with the matplotlib library
+
+### R1D64
+- Theme day: Flora
+- Learned the Polar chart
+- Worked with the pylab library
