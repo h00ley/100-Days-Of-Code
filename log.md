@@ -680,3 +680,8 @@ Started on May 1, 2022
 - Theme day: Flora
 - Learned the Polar chart
 - Worked with the pylab library
+
+### R1D65
+- Theme day: Slope
+- Learned the Bump chart
+- Started working with Tableau
