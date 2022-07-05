@@ -685,3 +685,8 @@ Started on May 1, 2022
 - Theme day: Slope
 - Learned the Bump chart
 - Started working with Tableau
+
+### R1D66
+- Theme day: OWID
+- Learned the Area chart
+- Continue working with Tableau
