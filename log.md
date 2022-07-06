@@ -690,3 +690,8 @@ Started on May 1, 2022
 - Theme day: OWID
 - Learned the Area chart
 - Continue working with Tableau
+
+### R1D67
+- Theme day: Physical
+- Learned the Stacked Hist chart
+- Worked with the JoyPy library
