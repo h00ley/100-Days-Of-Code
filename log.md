@@ -695,3 +695,8 @@ Started on May 1, 2022
 - Theme day: Physical
 - Learned the Stacked Hist chart
 - Worked with the JoyPy library
+
+### R1D68
+- Theme day: Mountains
+- Learned the Stacked Area chart
+- Worked with Tableau
