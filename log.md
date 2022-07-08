@@ -700,3 +700,8 @@ Started on May 1, 2022
 - Theme day: Mountains
 - Learned the Stacked Area chart
 - Worked with Tableau
+
+### R1D69
+- Theme day: Statistics
+- Learned the Podium Bar chart
+- Worked with Tableau
