@@ -705,3 +705,8 @@ Started on May 1, 2022
 - Theme day: Statistics
 - Learned the Podium Bar chart
 - Worked with Tableau
+
+### R1D70
+- Theme day: Experimental
+- Learned the Dendrogram chart
+- Worked with Tableau
