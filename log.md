@@ -710,3 +710,8 @@ Started on May 1, 2022
 - Theme day: Experimental
 - Learned the Dendrogram chart
 - Worked with Tableau
+
+### R1D71
+- Theme day: Circular
+- Learned the Radial chart
+- Worked with Illustrator
