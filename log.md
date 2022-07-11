@@ -715,3 +715,8 @@ Started on May 1, 2022
 - Theme day: Circular
 - Learned the Radial chart
 - Worked with Illustrator
+
+### R1D72
+- Theme day: The Economist
+- Learned the Stacked Bar chart
+- Worked with Tableau
