@@ -720,3 +720,8 @@ Started on May 1, 2022
 - Theme day: The Economist
 - Learned the Stacked Bar chart
 - Worked with Tableau
+
+### R1D73
+- Theme day: Correlation
+- Learned the Scatter plot
+- Worked with Seaborn
