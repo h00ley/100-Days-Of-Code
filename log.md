@@ -725,3 +725,8 @@ Started on May 1, 2022
 - Theme day: Correlation
 - Learned the Scatter plot
 - Worked with Seaborn
+
+### R1D74
+- Theme day: 3-Dimensional
+- Learned the mplot3d
+- Worked with matplotlib
