@@ -731,7 +731,7 @@ Started on May 1, 2022
 - Learned the mplot3d
 - Worked with matplotlib
 
-### R1D745
+### R1D75
 - Theme day: Multivariate
 - Learned the Percentage of Total
 - Worked with Tableau
