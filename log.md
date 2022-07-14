@@ -730,3 +730,8 @@ Started on May 1, 2022
 - Theme day: 3-Dimensional
 - Learned the mplot3d
 - Worked with matplotlib
+
+### R1D745
+- Theme day: Multivariate
+- Learned the Percentage of Total
+- Worked with Tableau
