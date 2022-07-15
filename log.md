@@ -735,3 +735,8 @@ Started on May 1, 2022
 - Theme day: Multivariate
 - Learned the Percentage of Total
 - Worked with Tableau
+
+### R1D76
+- Theme day: Environment
+- Learned the Treemap chart
+- Worked with Tableau
