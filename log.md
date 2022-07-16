@@ -740,3 +740,8 @@ Started on May 1, 2022
 - Theme day: Environment
 - Learned the Treemap chart
 - Worked with Tableau
+
+### R1D77
+- Theme day: Connections
+- Learned the Network graph
+- Worked with Tableau
