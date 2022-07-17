@@ -745,3 +745,8 @@ Started on May 1, 2022
 - Theme day: Connections
 - Learned the Network graph
 - Worked with Tableau
+
+### R1D78
+- Theme day: OECD
+- Learned the Sankey diagram
+- Worked with Tableau
