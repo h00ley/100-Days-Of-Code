@@ -750,3 +750,8 @@ Started on May 1, 2022
 - Theme day: OECD
 - Learned the Sankey diagram
 - Worked with Tableau
+
+### R1D79
+- Theme day: Global Change
+- Learned the Annotations
+- Worked with Tableau
