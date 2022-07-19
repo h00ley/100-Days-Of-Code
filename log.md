@@ -755,3 +755,8 @@ Started on May 1, 2022
 - Theme day: Global Change
 - Learned the Annotations
 - Worked with Tableau
+
+### R1D80
+- Theme day: New Tool
+- Learned the Streamgraph
+- Worked with Flourish
