@@ -760,3 +760,8 @@ Started on May 1, 2022
 - Theme day: New Tool
 - Learned the Streamgraph
 - Worked with Flourish
+
+### R1D81
+- Theme day: Down/Upwards
+- Learned the Line graph
+- Worked with Tableau
