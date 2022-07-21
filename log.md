@@ -765,3 +765,8 @@ Started on May 1, 2022
 - Theme day: Down/Upwards
 - Learned the Line graph
 - Worked with Tableau
+
+### R1D82
+- Theme day: Animation
+- Learned the Circular Jitter plot
+- Worked with Tableau
