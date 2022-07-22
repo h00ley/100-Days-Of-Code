@@ -770,3 +770,8 @@ Started on May 1, 2022
 - Theme day: Animation
 - Learned the Circular Jitter plot
 - Worked with Tableau
+
+### R1D83
+- Theme day: Tiles
+- Learned the Heat Map chart
+- Worked with Tableau
