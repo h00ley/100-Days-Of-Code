@@ -775,3 +775,8 @@ Started on May 1, 2022
 - Theme day: Tiles
 - Learned the Heat Map chart
 - Worked with Tableau
+
+### R1D84
+- Theme day: Financial Times
+- Learned the Icon Table chart
+- Worked with Tableau
