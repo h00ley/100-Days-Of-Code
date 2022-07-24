@@ -780,3 +780,8 @@ Started on May 1, 2022
 - Theme day: Financial Times
 - Learned the Icon Table chart
 - Worked with Tableau
+
+### R1D85
+- Theme day: Trend
+- Learned the Moving Average chart
+- Worked with Tableau
