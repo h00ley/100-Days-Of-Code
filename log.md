@@ -785,3 +785,8 @@ Started on May 1, 2022
 - Theme day: Trend
 - Learned the Moving Average chart
 - Worked with Tableau
+
+### R1D86
+- Theme day: Interactive
+- Learned the Dash library
+- Worked with Plotly
