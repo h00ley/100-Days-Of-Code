@@ -790,3 +790,8 @@ Started on May 1, 2022
 - Theme day: Interactive
 - Learned the Dash library
 - Worked with Plotly
+
+### R1D87
+- Theme day: Future
+- Learned the Forecasting
+- Worked with Tableau
