@@ -795,3 +795,8 @@ Started on May 1, 2022
 - Theme day: Future
 - Learned the Forecasting
 - Worked with Tableau
+
+### R1D88
+- Theme day: Deviations
+- Learned the Histogram with Normal Curve
+- Worked with Tableau
