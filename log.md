@@ -800,3 +800,8 @@ Started on May 1, 2022
 - Theme day: Deviations
 - Learned the Histogram with Normal Curve
 - Worked with Tableau
+
+### R1D89
+- Theme day: Storytelling
+- Learned the Geo Chart
+- Worked with Tableau
