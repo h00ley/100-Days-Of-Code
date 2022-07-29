@@ -805,3 +805,8 @@ Started on May 1, 2022
 - Theme day: Storytelling
 - Learned the Geo Chart
 - Worked with Tableau
+
+### R1D90
+- Theme day: UN Population
+- Learned the Filled Square Chart
+- Worked with Tableau
