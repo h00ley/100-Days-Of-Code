@@ -810,3 +810,8 @@ Started on May 1, 2022
 - Theme day: UN Population
 - Learned the Filled Square Chart
 - Worked with Tableau
+
+### R1D91
+- Continued to play with DataViz
+- Learned the Parallel Sets
+- Worked with Tableau
