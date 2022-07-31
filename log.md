@@ -815,3 +815,8 @@ Started on May 1, 2022
 - Continued to play with DataViz
 - Learned the Parallel Sets
 - Worked with Tableau
+
+### R1D92
+- Continued to play with DataViz
+- Learned the Word Cloud chart
+- Worked with Tableau
