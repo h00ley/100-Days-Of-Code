@@ -817,6 +817,11 @@ Started on May 1, 2022
 - Worked with Tableau
 
 ### R1D92
-- Continued to play with DataViz
+- Continued playing with DataViz
 - Learned the Word Cloud chart
+- Worked with Tableau
+
+### R1D93
+- Played with Infographics
+- Learned a lot about Swifts
 - Worked with Tableau
