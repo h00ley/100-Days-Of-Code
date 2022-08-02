@@ -825,3 +825,9 @@ Started on May 1, 2022
 - Played with Infographics
 - Learned a lot about Swifts
 - Worked with Tableau
+
+### R1D94
+- Very grateful to Toan Hoang 
+for great tutorials and tips
+- Learned a lot of charts
+- Reviewed Tableau lessons
