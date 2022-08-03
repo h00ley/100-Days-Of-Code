@@ -831,3 +831,8 @@ Started on May 1, 2022
 for great tutorials and tips
 - Learned a lot of charts
 - Reviewed Tableau lessons
+
+### R1D95
+- Finished DataVisualization Course
+- Learned Kaggle's platform
+- Reviewed python lessons
