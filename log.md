@@ -838,6 +838,6 @@ for great tutorials and tips
 - Reviewed python lessons
 
 ### R1D96
-- Finished #Tableau Fundamentals Course
+- Finished Tableau Fundamentals Course
 - Learned Tableau environment
 - Reviewed DataVisualization lessons
