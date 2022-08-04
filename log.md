@@ -836,3 +836,8 @@ for great tutorials and tips
 - Finished DataVisualization Course
 - Learned Kaggle's platform
 - Reviewed python lessons
+
+### R1D96
+- Finished #Tableau Fundamentals Course
+- Learned Tableau environment
+- Reviewed DataVisualization lessons
