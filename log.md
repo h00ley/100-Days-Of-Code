@@ -841,3 +841,23 @@ for great tutorials and tips
 - Finished Tableau Fundamentals Course
 - Learned Tableau environment
 - Reviewed DataVisualization lessons
+
+### R1D97
+- Collected all of my 30DayChartChallenge works
+- Learned many charts and tools
+- Revised DataVisualization lessons
+
+### R1D98
+- Finished "Data Analysis and Visualization Using Python" by Dr. Ossama Embarak
+- Learned some interesting cases
+- Revised DataVisualization lessons
+
+### R1D99
+- Reviewed all the days of code
+- Learned tremendous amount of information
+- Revised Python lessons
+
+### R1D100
+- Deployed a small portfolio site
+- Wanted to share all the gratitude and honour for supporting me journey! Thank you guys!
+- Looking forward to more adventurous challenges!
